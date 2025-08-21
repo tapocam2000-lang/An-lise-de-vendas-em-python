@@ -26,3 +26,48 @@ Um script simples em Python que permite analisar dados de vendas e gerar métric
 ```bash
 pip install pandas matplotlib
 python analise_vendas.py
+
+_____________________________________
+
+Projeto 2 – Dashboard Interativo de Vendas (Streamlit)
+
+Um dashboard interativo usando Streamlit, permitindo explorar os dados de vendas de forma visual e dinâmica.
+
+Funcionalidades
+
+Métricas principais: receita total, ticket médio, produto mais vendido.
+
+Gráfico de barras: quantidade vendida por produto.
+
+Gráfico de pizza: participação de cada produto na receita.
+
+Tabela interativa com todos os dados.
+
+Interface web interativa, pronta para compartilhamento via Streamlit Cloud.
+
+Tecnologias
+
+Python 3.x
+
+pandas
+
+matplotlib
+
+Streamlit
+
+Como rodar localmente
+pip install pandas matplotlib streamlit
+streamlit run app.py
+
+
+Abra o navegador em: http://localhost:8501
+
+Estes projetos demonstram habilidades em:
+
+Manipulação de dados com pandas
+
+Visualização de dados com matplotlib
+
+Criação de dashboards interativos com Streamlit
+
+Eles são ideais para estudantes que querem aprender análise de dados e visualização de forma prática e aplicar em casos reais.
